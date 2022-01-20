@@ -1,0 +1,12 @@
+DEBUG:root:Add: 10+5=15
+DEBUG:root:subtract: 10-5=5
+DEBUG:root:multiply: 10*5=50
+DEBUG:root:Add: 10/5=2.0
+DEBUG:root:Add: 20+10=30
+DEBUG:root:subtract: 20-10=10
+DEBUG:root:multiply: 20*10=200
+DEBUG:root:Add: 20/10=2.0
+2022-01-20 16:32:25,450:DEBUG:Add: 20+10=30
+2022-01-20 16:32:25,450:DEBUG:subtract: 20-10=10
+2022-01-20 16:32:25,450:DEBUG:multiply: 20*10=200
+2022-01-20 16:32:25,451:DEBUG:Add: 20/10=2.0
